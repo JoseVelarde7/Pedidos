@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Login</title>
+  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <!--<link rel="stylesheet" href="css/bootstrap.theme.css">-->
+  <link href="css/font-awesome.css" rel="stylesheet" type="text/css">
+  <style>
+        #mensaje{
+          text-align: center;
+          font-size: 25px;
+          color: #34aadc;
+        }
+        .login-img3-body{
+          background: url('img/baesalogo2.png') no-repeat center center fixed; 
+          -webkit-background-size: cover;
+          -moz-background-size: cover;
+          -o-background-size: cover;
+          background-size: cover;
+        }
+        .login-img3-body .login-form{
+            border: 1px solid #B0B6BE;
+            background: rgba(213,215,222,0.9);
+        }
+        .login-img3-body .login-form p,.login-img2-body .login-form p {
+            color: #34aadc;
+        }
+        .login-form {
+            max-width: 350px;
+            margin: 200px auto 0;
+            background: #d5d7de;    
+        }
+        .login-img-body .login-form{
+            max-width: 350px;
+            margin: 200px auto 0;
+            background: rgba(213,215,222,0.4);
+            border: 1px solid #B0B6BE;
+        }
+        .login-img2-body .login-form{
+            border: 1px solid #B0B6BE;
+            background: rgba(213,215,222,0.7);
+        }
+        .login-img3-body .login-form{
+            border: 1px solid #B0B6BE;
+            background: rgba(213,215,222,0.9);
+        }
+        .login-form a{
+            color: #688a7e !important;
+        }
+        .login-form h2.login-form-heading {
+            margin: 0;
+            padding:20px 15px;
+            text-align: center;
+            background: #34aadc;
+            border-radius: 5px 5px 0 0;
+            -webkit-border-radius: 5px 5px 0 0;
+            color: #fff;
+            font-size: 18px;
+            text-transform: uppercase;
+            font-weight: 300;
+            font-family: 'Lato', sans-serif;
+        }
+
+        .login-form .checkbox {
+            margin-bottom: 14px;
+        }
+        .login-form .checkbox {
+            font-weight: normal;    
+            font-weight: 300;
+            font-family: 'Lato', sans-serif;
+        }
+        .login-form .form-control {
+            position: relative;
+            font-size: 16px;
+            height: auto;
+            padding: 10px;
+            -webkit-box-sizing: border-box;
+            -moz-box-sizing: border-box;
+            box-sizing: border-box;
+        }
+        .login-form .form-control:focus {
+            z-index: 2;
+        }
+        .login-form .login-img{
+            font-size: 50px;
+            font-weight: 300;    
+        }
+        .login-form .input-group{
+            padding-bottom: 15px;
+        }
+        .login-form .input-group-addon{
+            padding: 6px 12px;
+            font-size: 16px;
+            color: #8b9199;
+            font-weight: normal;
+            line-height: 1;
+            text-align: center;
+            background-color: #ffffff;
+            border: none;
+            border-radius: 0;
+        }
+        .login-form input[type="text"], .login-form input[type="password"] {    
+            border: none;
+            box-shadow: none;
+            font-size: 16px;
+            border-radius: 0; 
+        }
+        .login-form .btn{
+            border-radius: 0;
+        }
+        .login-form .btn-login {
+            background: #f67a6e;
+            color: #fff;
+            text-transform: uppercase;
+            font-weight: 300;
+            font-family: 'Lato', sans-serif;
+            box-shadow: 0 4px #e56b60;
+            margin-bottom: 20px;
+        }
+
+        .login-form p {
+            text-align: center;
+            color: #b6b6b6;
+            font-size: 16px;
+            font-weight: 300;
+        }
+        .login-img3-body .login-form p,.login-img2-body .login-form p {
+            color: #34aadc;
+        }
+        .login-form a {
+            color: #b6b6b6;
+        }
+
+        .login-form a:hover {
+            color: #34aadc;
+        }
+        .login-wrap {
+            padding: 20px;
+        }
+
+        .login-form .login-img{
+            font-size: 50px;
+            font-weight: 300;    
+        }
+
+        .login-body{
+          background: url('../img/backindex.jpg') no-repeat center center fixed; 
+          -webkit-background-size: cover;
+          -moz-background-size: cover;
+          -o-background-size: cover;
+          background-size: cover;
+        }
+        .logo h1 {
+            font-family: 'Lobster', cursive;
+            color: #fff;
+            font-size: 60px;
+        }
+
+        .logo span {
+            color: #999;
+        }
+
+        .mainbody-section {
+            padding-top: 50px;
+            padding-bottom: 30px;
+        }
+
+        .menu-item {
+            color: #fff;
+            padding-top: 20px;
+            padding-bottom: 20px;
+            margin-bottom: 30px;
+            -webkit-transition: all 0.3s;
+            transition: all 0.3s;
+        }
+
+        .menu-item a {
+            color: #fff;
+            display: block;
+            -webkit-transition: all 0.3s;
+            transition: all 0.3s;
+        }
+
+        .menu-item a p {
+            font-family: 'Oswald', sans-serif;
+            font-weight: 300;
+            font-size: 20px;
+        }
+        .menu-item a i {
+            font-size: 50px;
+            padding-bottom: 20px;
+        }
+        .menu-item:hover a {
+            text-decoration: none;
+            color: #fff;
+            animation: wobble;
+            -webkit-animation: wobble;
+            animation-duration: 1000ms;
+            -webkit-animation-duration: 1000ms;
+        }
+
+        @media only screen 
+        and (min-width : 600px) 
+        and (max-width : 991px) {
+            
+            .menu-item {
+                display: inline-block;
+                width: 32.8%;
+            }
+            
+            .menu-item.responsive {
+                width: 49.5%;
+                float: left;
+                margin-right: 3px;
+            }
+            
+            .menu-item.responsive-2 {
+                width: 49.5%;
+                float: right;
+            }
+            
+        }
+
+        media only screen 
+        and (min-width : 992px) 
+        and (max-width : 1199px) {
+            
+            .menu-item {
+                padding-top: 15px;
+                padding-bottom: 15px;
+            }
+            
+            .menu-item a i {
+                font-size: 32px;
+            }
+            
+            .menu-item a p {
+                font-size: 16px;
+            }
+            
+        }
+
+        .blue {
+            background: #28ABE3;
+        }
+
+        .green {
+            background: #72bf48;
+        }
+
+        .red {
+            background: #FF432E;
+        }
+
+        .light-red {
+            background: #FB6648;
+        }
+
+        .light-orange {
+            background: #FA6900;
+        }
+
+        .color {
+            background: #0ECEAB;
+        }
+        .letra{
+            font-size: 25px;
+        }
+  </style>
+</head>
+<body class="login-img3-body">
+  
+  <div class="container">
+    <form class="login-form" id="formlog" name="formlog">
+      <div class="login-wrap">
+        <p class="login-img"><i class="fa fa-lock"></i></p>
+              <div class="input-group">
+                <span class="input-group-addon"><i class="fa fa-user"></i></span>
+                <input type="text" class="form-control" id="user" name="user" placeholder="Nombre" autofocus>
+              </div>
+              <div class="input-group">
+                  <span class="input-group-addon"><i class="fa fa-key"></i></span>
+                  <input type="password" class="form-control" id="pass" name="pass" placeholder="Password">
+              </div>
+              <div class="form-inline mens" align="center">
+                <i class="mens fa fa-cog fa-spin fa-3x"></i><span class="mens letra"> Ingresando...</span>
+              </div>
+              <div id="mensaje" class="form-inline"></div>
+            <button class="btn btn-primary btn-lg btn-block" type="submit">Ingresar</button>
+      </div>
+    </form>      
+  </div>
+
+  <script src="js/jquery.min.js"></script>
+    <!-- Bootstrap Core JavaScript -->
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/index.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Bootstrap Table Examples</title>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+        <title>Distribuidora Baesa</title>
+        <meta name="description" content="Blueprint: Responsive Full Width Tabs" />
+        <meta name="keywords" content="responsive tabs, full width tabs, template, blueprint" />
+        <meta name="author" content="Codrops" />
+        <link rel="shortcut icon" href="../favicon.ico">
+        <link rel="stylesheet" href="../css/font-awesome.css">
+        <link rel="stylesheet" href="../css/bootstrap.min.css">
+        <link rel="stylesheet" href="../css/bootstrapValidator.css"/>
+        <link rel="stylesheet" type="text/css" href="../css/demo.css" />
+        <link rel="stylesheet" type="text/css" href="../css/component.css" />
+        <link rel="stylesheet" href="../css/jquery.numpad.css">
+    <style>
+        /*#scrollable-dropdown-menu .tt-dropdown-menu {
+          max-height: 150px;
+          overflow-y: auto;
+        }*/
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div id="scrollable-dropdown-menu">
+          <input class="typeahead" type="text" placeholder="Countries">
+        </div>
+    </div>
+    <script src="../js/jquery.min.js"></script>
+    <script src="../js/cbpFWTabs.js"></script>
+    <script src="../js/bootstrap.min.js"></script>
+    <script src="../js/classie.js"></script>
+    <script src="../js/typeahead.js"></script>
+    <script src="../js/bootstrapValidator.min.js"></script>
+    <script src="../js/jquery.numpad.js"></script>
+    <script>
+        var substringMatcher = function(strs) {
+          return function findMatches(q, cb) {
+            var matches, substringRegex;
+            matches = [];
+            substrRegex = new RegExp(q, 'i');
+            $.each(strs, function(i, str) {
+              if (substrRegex.test(str)) {
+                matches.push(str);
+              }
+            });
+            cb(matches);
+          };
+        };
+        $.getJSON("../php/operacionget.php",{ope: "buscar"})
+          .done(function(resp) {
+                $('.typeahead').typeahead(null, {
+                  name: 'countries',
+                  limit: 15,
+                  source: substringMatcher(resp)
+                });
+          })
+          .fail(function( jqxhr, textStatus, error ) {
+            var err = textStatus + ", " + error;
+            console.log( "Request Failed: " + err );
+          });
+    </script>
+</body>
+</html>

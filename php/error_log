@@ -1,0 +1,142 @@
+[24-Jan-2017 11:50:03 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/baesa/public_html/pedidos/php/crud.php on line 312
+[24-Jan-2017 11:50:06 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/baesa/public_html/pedidos/php/crud.php on line 326
+[24-Jan-2017 11:51:15 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/baesa/public_html/pedidos/php/crud.php on line 312
+[24-Jan-2017 11:51:19 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/baesa/public_html/pedidos/php/crud.php on line 326
+[24-Jan-2017 11:52:50 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/baesa/public_html/pedidos/php/crud.php on line 312
+[24-Jan-2017 11:52:53 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/baesa/public_html/pedidos/php/crud.php on line 326
+[24-Jan-2017 11:54:05 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/baesa/public_html/pedidos/php/crud.php on line 312
+[24-Jan-2017 11:54:09 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/baesa/public_html/pedidos/php/crud.php on line 326
+[24-Jan-2017 11:54:20 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/baesa/public_html/pedidos/php/crud.php on line 312
+[24-Jan-2017 11:54:24 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/baesa/public_html/pedidos/php/crud.php on line 326
+[24-Jan-2017 11:56:58 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/baesa/public_html/pedidos/php/crud.php on line 312
+[24-Jan-2017 11:57:01 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/baesa/public_html/pedidos/php/crud.php on line 326
+[24-Jan-2017 12:04:13 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/baesa/public_html/pedidos/php/crud.php on line 312
+[24-Jan-2017 12:04:17 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/baesa/public_html/pedidos/php/crud.php on line 326
+[24-Jan-2017 12:09:02 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/baesa/public_html/pedidos/php/crud.php on line 312
+[24-Jan-2017 12:09:05 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/baesa/public_html/pedidos/php/crud.php on line 326
+[24-Jan-2017 12:11:15 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/baesa/public_html/pedidos/php/crud.php on line 312
+[24-Jan-2017 12:11:18 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/baesa/public_html/pedidos/php/crud.php on line 326
+[24-Jan-2017 12:13:50 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/baesa/public_html/pedidos/php/crud.php on line 304
+[24-Jan-2017 12:13:54 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/baesa/public_html/pedidos/php/crud.php on line 318
+[24-Jan-2017 12:17:48 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/baesa/public_html/pedidos/php/crud.php on line 306
+[24-Jan-2017 12:17:51 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/baesa/public_html/pedidos/php/crud.php on line 320
+[24-Jan-2017 12:19:30 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/baesa/public_html/pedidos/php/crud.php on line 306
+[24-Jan-2017 12:19:37 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/baesa/public_html/pedidos/php/crud.php on line 320
+[24-Jan-2017 12:19:42 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/baesa/public_html/pedidos/php/crud.php on line 306
+[24-Jan-2017 12:19:45 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/baesa/public_html/pedidos/php/crud.php on line 320
+[06-Feb-2017 13:49:16 America/La_Paz] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/baesa/public_html/pedidos/php/crud.php on line 22
+[06-Feb-2017 11:50:40 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/baesa/public_html/pedidos/php/crud.php on line 305
+[06-Feb-2017 11:50:44 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/baesa/public_html/pedidos/php/crud.php on line 319
+[06-Feb-2017 11:51:10 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/baesa/public_html/pedidos/php/crud.php on line 305
+[06-Feb-2017 11:51:14 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/baesa/public_html/pedidos/php/crud.php on line 319
+[21-Feb-2017 09:33:16 America/La_Paz] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/baesa/public_html/pedidos/php/crud.php on line 22
+[21-Feb-2017 07:33:24 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/baesa/public_html/pedidos/php/crud.php on line 319
+[21-Feb-2017 07:33:25 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/baesa/public_html/pedidos/php/crud.php on line 319
+[21-Feb-2017 07:33:41 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/baesa/public_html/pedidos/php/crud.php on line 319
+[21-Feb-2017 07:33:41 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/baesa/public_html/pedidos/php/crud.php on line 319
+[21-Feb-2017 07:33:41 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/baesa/public_html/pedidos/php/crud.php on line 319
+[21-Feb-2017 07:33:45 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/baesa/public_html/pedidos/php/crud.php on line 319
+[21-Feb-2017 07:33:45 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/baesa/public_html/pedidos/php/crud.php on line 319
+[21-Feb-2017 07:33:45 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/baesa/public_html/pedidos/php/crud.php on line 319
+[21-Feb-2017 07:33:47 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/baesa/public_html/pedidos/php/crud.php on line 319
+[21-Feb-2017 07:34:01 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/baesa/public_html/pedidos/php/crud.php on line 319
+[21-Feb-2017 07:34:15 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/baesa/public_html/pedidos/php/crud.php on line 319
+[21-Feb-2017 07:34:17 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/baesa/public_html/pedidos/php/crud.php on line 319
+[21-Feb-2017 07:34:23 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/baesa/public_html/pedidos/php/crud.php on line 319
+[21-Feb-2017 07:34:27 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/baesa/public_html/pedidos/php/crud.php on line 319
+[21-Feb-2017 07:34:30 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/baesa/public_html/pedidos/php/crud.php on line 319
+[21-Feb-2017 07:34:30 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/baesa/public_html/pedidos/php/crud.php on line 319
+[21-Feb-2017 07:34:30 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/baesa/public_html/pedidos/php/crud.php on line 319
+[21-Feb-2017 07:34:36 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/baesa/public_html/pedidos/php/crud.php on line 319
+[21-Feb-2017 07:34:36 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/baesa/public_html/pedidos/php/crud.php on line 319
+[21-Feb-2017 07:34:36 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/baesa/public_html/pedidos/php/crud.php on line 319
+[21-Feb-2017 07:34:37 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/baesa/public_html/pedidos/php/crud.php on line 319
+[21-Feb-2017 07:34:38 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/baesa/public_html/pedidos/php/crud.php on line 319
+[21-Feb-2017 07:34:49 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/baesa/public_html/pedidos/php/crud.php on line 319
+[21-Feb-2017 07:34:51 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/baesa/public_html/pedidos/php/crud.php on line 319
+[21-Feb-2017 07:34:52 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/baesa/public_html/pedidos/php/crud.php on line 319
+[21-Feb-2017 07:34:52 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/baesa/public_html/pedidos/php/crud.php on line 319
+[21-Feb-2017 07:34:52 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/baesa/public_html/pedidos/php/crud.php on line 319
+[21-Feb-2017 07:34:52 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/baesa/public_html/pedidos/php/crud.php on line 319
+[21-Feb-2017 07:34:53 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/baesa/public_html/pedidos/php/crud.php on line 319
+[21-Feb-2017 07:34:53 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/baesa/public_html/pedidos/php/crud.php on line 319
+[21-Feb-2017 07:34:53 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/baesa/public_html/pedidos/php/crud.php on line 319
+[21-Feb-2017 07:34:58 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/baesa/public_html/pedidos/php/crud.php on line 319
+[21-Feb-2017 07:35:35 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/baesa/public_html/pedidos/php/crud.php on line 319
+[09-Mar-2017 08:48:45 America/Chicago] PHP Fatal error:  Call to undefined method operacion::borrarconsola() in /home/baesa/public_html/pedidos/php/importar.php on line 7
+[09-Mar-2017 08:49:11 America/Chicago] PHP Fatal error:  Call to undefined method operacion::borrarconsola() in /home/baesa/public_html/pedidos/php/importar.php on line 7
+[26-Sep-2017 19:19:16 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/baesacom/public_html/pedidos/php/crud.php on line 327
+[26-Sep-2017 19:19:17 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/baesacom/public_html/pedidos/php/crud.php on line 341
+[26-Sep-2017 19:19:51 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/baesacom/public_html/pedidos/php/crud.php on line 327
+[26-Sep-2017 19:19:51 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/baesacom/public_html/pedidos/php/crud.php on line 341
+[26-Sep-2017 19:22:52 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/baesacom/public_html/pedidos/php/crud.php on line 327
+[26-Sep-2017 19:22:53 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/baesacom/public_html/pedidos/php/crud.php on line 341
+[26-Sep-2017 19:23:43 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/baesacom/public_html/pedidos/php/crud.php on line 327
+[26-Sep-2017 19:23:44 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/baesacom/public_html/pedidos/php/crud.php on line 341
+[26-Sep-2017 19:24:30 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/baesacom/public_html/pedidos/php/crud.php on line 327
+[26-Sep-2017 19:24:31 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/baesacom/public_html/pedidos/php/crud.php on line 341
+[26-Sep-2017 19:25:05 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/baesacom/public_html/pedidos/php/crud.php on line 327
+[26-Sep-2017 19:26:55 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/baesacom/public_html/pedidos/php/crud.php on line 327
+[26-Sep-2017 19:28:57 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/baesacom/public_html/pedidos/php/crud.php on line 327
+[26-Sep-2017 19:31:03 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/baesacom/public_html/pedidos/php/crud.php on line 327
+[26-Sep-2017 19:31:03 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/baesacom/public_html/pedidos/php/crud.php on line 341
+[26-Sep-2017 19:33:10 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/baesacom/public_html/pedidos/php/crud.php on line 327
+[26-Sep-2017 19:37:31 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/baesacom/public_html/pedidos/php/crud.php on line 341
+[26-Sep-2017 19:38:18 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/baesacom/public_html/pedidos/php/crud.php on line 341
+[26-Sep-2017 19:40:43 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/baesacom/public_html/pedidos/php/crud.php on line 327
+[26-Sep-2017 19:42:44 UTC] PHP Parse error:  syntax error, unexpected 'validar' (T_STRING), expecting function (T_FUNCTION) in /home/baesacom/public_html/pedidos/php/crud.php on line 324
+[26-Sep-2017 19:42:59 UTC] PHP Parse error:  syntax error, unexpected 'validar' (T_STRING), expecting function (T_FUNCTION) in /home/baesacom/public_html/pedidos/php/crud.php on line 324
+[26-Sep-2017 19:44:39 UTC] PHP Parse error:  syntax error, unexpected 'validar' (T_STRING), expecting function (T_FUNCTION) in /home/baesacom/public_html/pedidos/php/crud.php on line 324
+[26-Sep-2017 19:46:27 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/baesacom/public_html/pedidos/php/crud.php on line 326
+[26-Sep-2017 19:47:10 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/baesacom/public_html/pedidos/php/crud.php on line 326
+[26-Sep-2017 19:47:55 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/baesacom/public_html/pedidos/php/crud.php on line 326
+[26-Sep-2017 19:56:57 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/baesacom/public_html/pedidos/php/crud.php on line 326
+[26-Sep-2017 19:58:39 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/baesacom/public_html/pedidos/php/crud.php on line 340
+[26-Sep-2017 19:58:39 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/baesacom/public_html/pedidos/php/crud.php on line 340
+[26-Sep-2017 19:58:39 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/baesacom/public_html/pedidos/php/crud.php on line 340
+[26-Sep-2017 19:58:52 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/baesacom/public_html/pedidos/php/crud.php on line 340
+[26-Sep-2017 20:00:16 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/baesacom/public_html/pedidos/php/crud.php on line 326
+[26-Sep-2017 20:00:48 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/baesacom/public_html/pedidos/php/crud.php on line 326
+[26-Sep-2017 20:01:02 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/baesacom/public_html/pedidos/php/crud.php on line 326
+[26-Sep-2017 20:02:40 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/baesacom/public_html/pedidos/php/crud.php on line 326
+[26-Sep-2017 20:02:40 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/baesacom/public_html/pedidos/php/crud.php on line 340
+[07-Nov-2017 19:24:24 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/baesacom/public_html/pedidos/php/crud.php on line 327
+[07-Nov-2017 19:24:26 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/baesacom/public_html/pedidos/php/crud.php on line 341
+[07-Nov-2017 19:24:32 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/baesacom/public_html/pedidos/php/crud.php on line 327
+[07-Nov-2017 19:24:32 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/baesacom/public_html/pedidos/php/crud.php on line 341
+[07-Nov-2017 19:24:38 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/baesacom/public_html/pedidos/php/crud.php on line 327
+[07-Nov-2017 19:24:38 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/baesacom/public_html/pedidos/php/crud.php on line 341
+[18-Jan-2018 15:35:06 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/baesacom/public_html/pedidos/php/crud.php on line 327
+[18-Jan-2018 15:36:00 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/baesacom/public_html/pedidos/php/crud.php on line 327
+[26-Feb-2018 15:51:02 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/baesacom/public_html/pedidos/php/crud.php on line 327
+[26-Feb-2018 15:51:02 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/baesacom/public_html/pedidos/php/crud.php on line 327
+[26-Feb-2018 15:51:02 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/baesacom/public_html/pedidos/php/crud.php on line 327
+[26-Feb-2018 15:51:02 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/baesacom/public_html/pedidos/php/crud.php on line 327
+[26-Feb-2018 15:51:02 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/baesacom/public_html/pedidos/php/crud.php on line 327
+[26-Feb-2018 15:51:02 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/baesacom/public_html/pedidos/php/crud.php on line 327
+[26-Feb-2018 15:51:05 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/baesacom/public_html/pedidos/php/crud.php on line 327
+[26-Feb-2018 15:51:06 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/baesacom/public_html/pedidos/php/crud.php on line 341
+[26-Feb-2018 15:52:27 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/baesacom/public_html/pedidos/php/crud.php on line 327
+[26-Feb-2018 15:52:28 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/baesacom/public_html/pedidos/php/crud.php on line 341
+[26-Feb-2018 16:22:30 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/baesacom/public_html/pedidos/php/crud.php on line 341
+[26-Feb-2018 16:22:32 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/baesacom/public_html/pedidos/php/crud.php on line 341
+[26-Feb-2018 16:22:32 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/baesacom/public_html/pedidos/php/crud.php on line 341
+[13-Mar-2018 03:11:51 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/baesacom/public_html/pedidos/php/crud.php on line 327
+[13-Mar-2018 03:11:51 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/baesacom/public_html/pedidos/php/crud.php on line 341
+[13-Mar-2018 17:18:57 UTC] PHP Warning:  PDO::__construct(): MySQL server has gone away in /home/baesacom/public_html/pedidos/php/crud.php on line 18
+[13-Mar-2018 17:19:50 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/baesacom/public_html/pedidos/php/crud.php on line 341
+[20-Mar-2018 23:59:39 UTC] PHP Warning:  file(): Filename cannot be empty in /home/baesacom/public_html/pedidos/php/importar.php on line 12
+[20-Mar-2018 23:59:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/baesacom/public_html/pedidos/php/importar.php on line 16
+[20-Mar-2018 23:59:39 UTC] PHP Warning:  file(): Filename cannot be empty in /home/baesacom/public_html/pedidos/php/importar.php on line 12
+[20-Mar-2018 23:59:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/baesacom/public_html/pedidos/php/importar.php on line 16
+[21-Mar-2018 00:01:01 UTC] PHP Warning:  file(): Filename cannot be empty in /home/baesacom/public_html/pedidos/php/importar.php on line 12
+[21-Mar-2018 00:01:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/baesacom/public_html/pedidos/php/importar.php on line 16
+[19-Apr-2018 00:43:58 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/baesacom/public_html/pedidos/php/crud.php on line 327
+[19-Apr-2018 00:44:05 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/baesacom/public_html/pedidos/php/crud.php on line 327
+[19-Apr-2018 00:44:09 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/baesacom/public_html/pedidos/php/crud.php on line 327
+[19-Apr-2018 00:45:51 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/baesacom/public_html/pedidos/php/crud.php on line 327
+[03-May-2018 20:51:34 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/baesacom/public_html/pedidos/php/crud.php on line 327
+[03-May-2018 20:51:34 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/baesacom/public_html/pedidos/php/crud.php on line 327
+[03-May-2018 20:51:34 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/baesacom/public_html/pedidos/php/crud.php on line 327
+[03-May-2018 20:51:34 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/baesacom/public_html/pedidos/php/crud.php on line 327
+[03-May-2018 20:53:36 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/baesacom/public_html/pedidos/php/crud.php on line 327
